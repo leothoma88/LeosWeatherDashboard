@@ -17,7 +17,7 @@ The following image demonstrates the web application's appearance and functional
 ## 💡 Links
 
 Github Repo
-* 
+* https://github.com/leothoma88/LeosWeatherDashboard
 
 Livelink
 * 
